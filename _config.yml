@@ -27,6 +27,11 @@ prose:
             element: "text"
             label: "Author"
             value: ""
+      - name: "excerpt"
+        field: "text"
+          element: "text"
+          label: "Excerpt of blog post"
+          value: ""
       - name: "splash"
         field:
           element: "text"
