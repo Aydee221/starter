@@ -5,6 +5,9 @@ published: true
 splash:
 title: Abby's Test Post
 author: Aydee221
+tags:
+  - apples
+  - pears
 ---
 
 
