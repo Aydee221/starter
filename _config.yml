@@ -30,7 +30,7 @@ prose:
       - name: "excerpt"
         field:
           element: "text"
-          label: "Blog post excerpt"
+          label: "Blog Post Excerpt"
           value: ""
 #      - name: "splash"
 #        field:
