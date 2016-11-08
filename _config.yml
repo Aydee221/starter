@@ -28,7 +28,7 @@ prose:
             label: "Author"
             value: ""
       - name: "excerpt"
-        field: "text"
+        field:
           element: "text"
           label: "Excerpt of blog post"
           value: ""
