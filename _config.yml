@@ -30,13 +30,13 @@ prose:
       - name: "excerpt"
         field:
           element: "text"
-          label: "Excerpt of blog post"
+          label: "Blog post excerpt"
           value: ""
-      - name: "splash"
-        field:
-          element: "text"
-          label: "Splash image"
-          value: ""
+#      - name: "splash"
+#        field:
+#          element: "text"
+#          label: "Splash image"
+#         value: ""
       - name: "tags"
         field:
           element: "multiselect"
