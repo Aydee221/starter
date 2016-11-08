@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 published: true
-splash: 'http://placehold.it/1600x500'
+splash:
 title: Abby's Test Post
 author: Aydee221
 ---
