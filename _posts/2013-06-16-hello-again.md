@@ -5,6 +5,9 @@ published: true
 splash: 'http://placehold.it/1600x500'
 title: Abby's Test Post
 author: Aydee221
+tags:
+  - apples
+  - pears
 ---
 
 
