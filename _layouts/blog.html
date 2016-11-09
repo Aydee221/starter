@@ -23,6 +23,8 @@ section: blog
   <div class='prose'>
     {{content}}
   </div>
+    <p>{{page.tags | array_to_sentence_string}}</p>
 </div>
+
 
 {% include rss-link.html %}
