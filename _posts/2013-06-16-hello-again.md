@@ -2,12 +2,13 @@
 layout: blog
 category: blog
 published: true
-splash:
+splash: null
 title: Abby's Test Post
 author: Aydee221
 tags:
   - apples
   - pears
+  - UX
 ---
 
 
