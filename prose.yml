@@ -41,14 +41,14 @@ prose:
           placeholder: "Choose Tags"
           alterable: "true"
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
+            - name: "Phrasing"
+              value: "phrasing"
+            - name: "Colors"
+              value: "colors"
+            - name: "Nav"
+              value: "nav"
+            - name: "UI"
+              value: "ui"
     _posts/static:
       - name: "layout"
         field:
