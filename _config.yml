@@ -109,7 +109,7 @@ prose:
   ignore:
   media: "images"
   metadata:
-    src:
+    _posts:
       - name: "title"
         field:
           element: "text"
