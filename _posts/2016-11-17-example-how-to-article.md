@@ -11,6 +11,8 @@ otheraffectedsystem:
   - system4
 roles:
   - group2
+permalink: example-how-to-article.html
+tags: [news, getting_started]
 ---
 ## Function
 Here is some function content
