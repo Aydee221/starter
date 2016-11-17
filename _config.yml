@@ -104,8 +104,10 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 url: http://aydee221.github.io/starter
 
 prose:
+  rooturl: "_posts"
   siteurl: "https://aydee221.github.io/starter"
   ignore:
+  media: "images"
   metadata:
     src:
       - name: "title"
