@@ -128,7 +128,7 @@ prose:
       - name: "author"
         field:
           element: "select"
-          label: "Publisher"
+          label: "Author"
           options:
             - name: "Person1"
               value: "person1"
