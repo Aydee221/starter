@@ -1,6 +1,6 @@
 name: White Paper
-highlighter: true
-url: http://vinitkumar.me/white-paper
+highlighter: rouge
+url: http://aydee221.github.io/starter
 gems: [jekyll-paginate,  jekyll-gist]
 paginate: 8
 description:     Jekyll theme for Programmers
@@ -13,9 +13,9 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           <your-name-here>
+  name:           Aydee221
   avatar:         <avatar-image-link>
-  email:          <your-email-address>
+  email:          aldutson@icloud.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   github:
